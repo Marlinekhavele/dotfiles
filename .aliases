@@ -18,7 +18,7 @@ alias c="clear"
 # project directory shortcuts
 alias dotfiles="cd ~/devbase/personal/dotfiles"
 alias vagrance="cd ~/devbase/personal/vagrance"
-alias chobits="cd ~/devbase/chobits/work/chobits"
+alias chobits="cd ~/devbase/chobits/work"
 alias veryfy="cd ~/devbase/veryfy/work"
 
 # youtube-dl
