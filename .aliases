@@ -40,6 +40,7 @@ alias gss="gs -s"
 alias glg="gl -p"
 alias gcl="git clone"
 alias gd="git diff"
+alias ga="git add"
 
 # vim
 alias v="vim"
