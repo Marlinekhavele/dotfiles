@@ -6,20 +6,11 @@ alias .....="cd ../../../.."
 alias -- -="cd -"
 
 # Shortcuts
-alias dl="cd ~/Downloads"
-alias dt="cd ~/Desktop"
-alias p="cd ~/devbase"
 alias g="git"
 alias h="history"
 alias j="jobs"
 alias x="exit"
 alias c="clear"
-
-# project directory shortcuts
-alias dotfiles="cd ~/devbase/personal/dotfiles"
-alias vagrance="cd ~/devbase/personal/vagrance"
-alias chobits="cd ~/devbase/chobits/work"
-alias veryfy="cd ~/devbase/veryfy/work"
 
 # youtube-dl
 alias ydl="youtube-dl -o '%(title)s.%(ext)s'"
@@ -33,6 +24,7 @@ alias gco="git checkout"
 alias gcob="git checkout -b"
 alias gb="git branch"
 alias gcm="git commit"
+alias gc="git commit"
 alias gundo="git reset HEAD~1 --mixed"
 alias gl="git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 alias gs="git status"
@@ -41,6 +33,7 @@ alias glg="gl -p"
 alias gcl="git clone"
 alias gd="git diff"
 alias ga="git add"
+alias gdiscard="git checkout --"
 
 # vim
 alias v="vim"

@@ -1,0 +1,11 @@
+alias dl="cd ~/Downloads"
+alias dt="cd ~/Desktop"
+
+# project directory shortcuts
+alias personal="cd ~/devbase"
+alias devbase="cd ~/devbase"
+
+alias dotfiles="cd ~/devbase/personal/dotfiles"
+alias vagrance="cd ~/devbase/personal/vagrance"
+alias chobits="cd ~/devbase/chobits/work"
+alias veryfy="cd ~/devbase/veryfy/work"
